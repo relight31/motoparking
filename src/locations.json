@@ -1,0 +1,16 @@
+[
+  {
+    "name": "*Scape Co Ltd",
+    "address": "2 Orchard Link",
+    "remark": "$1.60/hour or part thereof",
+    "lat": "1.3010911858278476",
+    "long": "103.83534943018238"
+  },
+  {
+    "name": "100AM",
+    "address": "100 Tras Street",
+    "remark": "Free at public carpark on Tras Street",
+    "lat": "1.2750604826831975",
+    "long": "103.84357309263974"
+  }
+]
