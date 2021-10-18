@@ -1,12 +1,10 @@
 import React, { useState } from "react";
-import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
+import { MapContainer, TileLayer, Marker, Popup, Tooltip } from "react-leaflet";
+import { OpenStreetMapProvider } from "react-leaflet-geosearch";
+import SearchControl from "./SearchControl";
 import LocationList from "./locations.json";
 
-export default function Map() {
-  let [currentLocation, setCurrentLocation] = useState([
-    1.3172918,
-    103.9036111,
-  ]);
+export default function Map(props) {
 
   let [filteredLocations, setFilteredLocation] = useState(LocationList);
 
@@ -15,16 +13,19 @@ export default function Map() {
 
     return (
       <Marker position={coords}>
-        <Popup>
+        <Tooltip sticky>
           {props.name} <br /> {props.address}
           <br /> {props.remark}
-        </Popup>
+        </Tooltip>
       </Marker>
     );
   };
+
+  const prov = OpenStreetMapProvider();
+
   return (
     <div>
-      <MapContainer center={currentLocation} zoom={13} scrollWheelZoom={true}>
+      <MapContainer center={props.location} zoom={13} scrollWheelZoom={true}>
         <TileLayer
           attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -32,6 +33,19 @@ export default function Map() {
         {filteredLocations.map((location, index) => {
           return <Carpark key={index} {...location} />;
         })}
+
+        <SearchControl
+          provider={prov}
+          showMarker={true}
+          showPopup={true}
+          popupFormat={({ query, result }) => result.label}
+          maxMarkers={3}
+          retainZoomLevel={false}
+          animateZoom={true}
+          autoClose={false}
+          searchLabel={"Enter address, please"}
+          keepResult={true}
+        />
       </MapContainer>
     </div>
   );

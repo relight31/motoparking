@@ -39,5 +39,6 @@
 
 .leaflet-container {
   width: 80vw;
-  height: 100vh;
+  height: calc(100vh - 10px - 3vmin);
+  align-self: center;
 }
