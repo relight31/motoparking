@@ -12,5 +12,19 @@
     "remark": "Free at public carpark on Tras Street",
     "lat": "1.2750604826831975",
     "long": "103.84357309263974"
+  },
+  {
+    "name": "1A International Business Park",
+    "address": "1A International Business Park Road",
+    "remark": "$1/entry",
+    "lat": "1.3281955602317246",
+    "long": "103.7482257034556"
+  },
+  {
+    "name": "28 Ayer Rajah Crescent",
+    "address": "28 Ayer Rajah Crescent",
+    "remark": "$0.65/entry. Same for all Ayer Rajah Crescent CPs",
+    "lat": "1.2967336481865772",
+    "long": "103.79017335368776"
   }
 ]
