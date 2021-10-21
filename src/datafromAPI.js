@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import proj4 from "proj4";
 
-let api_token = `https://data.gov.sg/api/action/datastore_search?resource_id=139a3035-e624-4f56-b63f-89ae28d4ae4c`;
+let api_token = `https://data.gov.sg/api/action/datastore_search?resource_id=139a3035-e624-4f56-b63f-89ae28d4ae4c&limit=2200`;
 
 export function GetData() {
   const [hdbcarparks, setHdbcarparks] = useState([]);

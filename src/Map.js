@@ -32,8 +32,8 @@ export default function Map(props) {
     return (
       <CircleMarker
         center={props.coords}
-        pathOptions={{ color: "red" }}
-        radius={10}
+        pathOptions={{ color: "green" }}
+        radius={5}
       >
         <Tooltip sticky>
           HDB Carpark <br /> {props.name}
