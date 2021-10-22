@@ -1,0 +1,2669 @@
+[
+ {
+   "name": "*SCAPE Co. Ltd ",
+   "address": " 2 Orchard Link",
+   "remark": " $1.60/hour or part thereof",
+   "lat": 1.30163,
+   "long": 103.83547
+ },
+ {
+   "name": "100 AM (Formerly Amara Shopping Centre) ",
+   "address": " 100 Tras Street",
+   "remark": " $2.00/ half hour",
+   "lat": 1.27488,
+   "long": 103.84383
+ },
+ {
+   "name": "1A International Business Park ",
+   "address": " 1A International Business Park",
+   "remark": " $1.00/entry",
+   "lat": 1.326791,
+   "long": 103.747846
+ },
+ {
+   "name": "28 Ayer Rajah Crescent ",
+   "address": " 28 Ayer Rajah Crescent",
+   "remark": " $0.65/entry. Same for all Ayer Rajah Crescent CPs",
+   "lat": 1.29566,
+   "long": 103.79001
+ },
+ {
+   "name": "313 @ Somerset ",
+   "address": " 313 Orchard Road",
+   "remark": " $1.61/hr",
+   "lat": 1.30054,
+   "long": 103.83812
+ },
+ {
+   "name": "78 Shenton Way (Formerly Lippo Centre) ",
+   "address": " 78 Shenton Way",
+   "remark": " Free",
+   "lat": 1.273044,
+   "long": 103.844893
+ },
+ {
+   "name": "8 Shenton Way (Formerly Temasek Tower) ",
+   "address": " 8 Shenton Way",
+   "remark": " $0.60/1st half hour,  $1.20 after half hour full day",
+   "lat": 1.27627,
+   "long": 103.8483
+ },
+ {
+   "name": "888 Plaza ",
+   "address": " 888 Woodlands Drive 50",
+   "remark": "$0.65",
+   "lat": 1.43782,
+   "long": 103.79499
+ },
+ {
+   "name": "991 Alexandra Road ",
+   "address": " 991 Alexandra Road",
+   "remark": " Free. Scan your IU",
+   "lat": 1.274432,
+   "long": 103.802902
+ },
+ {
+   "name": "ABI Plaza (Formerly RCL Centre) ",
+   "address": " 11 Keppel Road 089057 ",
+   "remark": " Park at the lane beside coffeeshop (dispatch parking)",
+   "lat": 1.27421,
+   "long": 103.84317
+ },
+ {
+   "name": "Acer Building ",
+   "address": " 29 International Business Park",
+   "remark": " Free",
+   "lat": 1.3268,
+   "long": 103.74788
+ },
+ {
+   "name": "AIA Tower ",
+   "address": " 1 Robinson Road",
+   "remark": " Tenants only. Park opposite Lau Pa Sat at Hong Leong Building",
+   "lat": 1.281966,
+   "long": 103.851059
+ },
+ {
+   "name": "Alexandra Hospital ",
+   "address": " 378 Alexandra Road",
+   "remark": " $0.01/min�(up to max $5)",
+   "lat": 1.286984,
+   "long": 103.80134
+ },
+ {
+   "name": "Alexandra Technopark ",
+   "address": " 438A Alexandra Road",
+   "remark": " Free",
+   "lat": 1.27659,
+   "long": 103.79786
+ },
+ {
+   "name": "Amara Singapore ",
+   "address": " 165 Tanjong Pagar Road",
+   "remark": " $2.00/half hour. Consider parking at Tanjong Pagar Plaza MSCP",
+   "lat": 1.2742,
+   "long": 103.84402
+ },
+ {
+   "name": "AMK Hub ",
+   "address": " 53 Ang Mo Kio Avenue 3",
+   "remark": " $1.20. Including Loading Bay",
+   "lat": 1.369017,
+   "long": 103.848122
+ },
+ {
+   "name": "Anchorpoint ",
+   "address": " 370 Alexandra Road",
+   "remark": " Free",
+   "lat": 1.28924,
+   "long": 103.8056
+ },
+ {
+   "name": "Ang Mo Kio Thye Hua Kwan Hospital ",
+   "address": " 17 Ang Mo Kio Avenue 9",
+   "remark": " Free",
+   "lat": 1.38459,
+   "long": 103.839016
+ },
+ {
+   "name": "Anglo-Chinese School (Barker Road) ",
+   "address": " 60 Barker Road",
+   "remark": " Free",
+   "lat": 1.319611,
+   "long": 103.835757
+ },
+ {
+   "name": "Aperia Mall ",
+   "address": " 12 Kallang Avenue",
+   "remark": "$1.50",
+   "lat": 1.31105,
+   "long": 103.86471
+ },
+ {
+   "name": "AXA Tower ",
+   "address": " 8 Shenton Way",
+   "remark": "$0.60/first 30min, more than 30min $1.20 per entry",
+   "lat": 1.27627,
+   "long": 103.8483
+ },
+ {
+   "name": "AZ @ Paya Lebar ",
+   "address": " 140 Paya Lebar Road",
+   "remark": " $0.80/half hour",
+   "lat": 1.327444,
+   "long": 103.8912
+ },
+ {
+   "name": "Balestier Plaza ",
+   "address": " 400 Balestier Road",
+   "remark": " Free",
+   "lat": 1.325916,
+   "long": 103.850611
+ },
+ {
+   "name": "Balmoral Plaza ",
+   "address": " 271 Bukit Timah Road",
+   "remark": " Free. Squeeze through the side and park at basement or behind building. No marked lots",
+   "lat": 1.316498,
+   "long": 103.835472
+ },
+ {
+   "name": "Beauty World Centre ",
+   "address": " 144 Upper Bukit Timah Road",
+   "remark": " Free",
+   "lat": 1.342156,
+   "long": 103.776712
+ },
+ {
+   "name": "Bedok Mall ",
+   "address": " 311 New Upper Changi Road",
+   "remark": "$1.02",
+   "lat": 1.32457,
+   "long": 103.93416
+ },
+ {
+   "name": "Big Box ",
+   "address": " 1 Venture Avenue",
+   "remark": " $1.20 per entry",
+   "lat": 1.33104,
+   "long": 103.74415
+ },
+ {
+   "name": "Big Splash ",
+   "address": " 902 East Coast Parkway",
+   "remark": " Free",
+   "lat": 1.296966,
+   "long": 103.899899
+ },
+ {
+   "name": "Biopolis ",
+   "address": " 11 Biopolis Way",
+   "remark": "$0.65",
+   "lat": 1.304481,
+   "long": 103.791436
+ },
+ {
+   "name": "Boon Siew Building ",
+   "address": " 75 Bukit Timah Road",
+   "remark": " Free",
+   "lat": 1.30673,
+   "long": 103.84888
+ },
+ {
+   "name": "Bras Basah Complex ",
+   "address": " 231 Bain Street",
+   "remark": "$0.65",
+   "lat": 1.29741,
+   "long": 103.8536
+ },
+ {
+   "name": "Bright Centre ",
+   "address": " 55 Lorong L Telok Kurau",
+   "remark": " Free",
+   "lat": 1.311796853,
+   "long": 103.9103995
+ },
+ {
+   "name": "Bugis Junction ",
+   "address": " 200 Victoria Street",
+   "remark": "$1.07",
+   "lat": 1.30027,
+   "long": 103.8557
+ },
+ {
+   "name": "Bugis+ (Formerly Iluma) ",
+   "address": " 201 Victoria Street",
+   "remark": " Open space parking available near Koi",
+   "lat": 1.299629,
+   "long": 103.854302
+ },
+ {
+   "name": "Bukit Batok Driving Centre (BBDC) ",
+   "address": " 815 Bukit Batok West Avenue 5",
+   "remark": " Free. Bypass barrier from the left",
+   "lat": 1.366927,
+   "long": 103.749916
+ },
+ {
+   "name": "Bukit Merah Central Market & Food Centre ",
+   "address": " 163 Bukit Merah Central",
+   "remark": " $0.65. Free on Sundays & PH",
+   "lat": 1.284152,
+   "long": 103.816987
+ },
+ {
+   "name": "Bukit Panjang Plaza ",
+   "address": " 1 Jelebu Road",
+   "remark": "$1.07",
+   "lat": 1.37989,
+   "long": 103.76537
+ },
+ {
+   "name": "Bukit Timah Plaza ",
+   "address": " 1 Jalan Anak Bukit",
+   "remark": " $1.20/entry. Limited lots at L3",
+   "lat": 1.339214,
+   "long": 103.778885
+ },
+ {
+   "name": "Bukit Timah Shopping Centre ",
+   "address": " 170 Upper Bukit Timah Road",
+   "remark": "$1.05",
+   "lat": 1.343565617,
+   "long": 103.7759776
+ },
+ {
+   "name": "Burlington Square ",
+   "address": " 175 Bencoolen Street",
+   "remark": "$0.80",
+   "lat": 1.30052,
+   "long": 103.85166
+ },
+ {
+   "name": "Caldecott Broadcast Centre (Mediacorp) ",
+   "address": " Andrew Road",
+   "remark": " Free",
+   "lat": 1.33649,
+   "long": 103.83312
+ },
+ {
+   "name": "Camden Medical Centre ",
+   "address": " 1 Orchard Boulevard",
+   "remark": " Free",
+   "lat": 1.303152,
+   "long": 103.823715
+ },
+ {
+   "name": "Capital Tower ",
+   "address": " 168 Robinson Road",
+   "remark": "$3.30",
+   "lat": 1.27949,
+   "long": 103.84919
+ },
+ {
+   "name": "Car Park at 22 Bideford Road (next to Al-Falah mosque) ",
+   "address": " 15 Cairnhill Road 229650 ",
+   "remark": " Mon to Sat 0700 to 1759 hrs = $0.80/hr 1800 to 0659 hrs = $1.50 per entry. Sun & Public Holidays 0700 to 1759 hrs = $2.50 per entry  1800 to 0659 hrs = $1.50 per entry",
+   "lat": 1.303843,
+   "long": 103.836691
+ },
+ {
+   "name": "Carlton Hotel Singapore ",
+   "address": " 76 Bras Basah Road",
+   "remark": " Free at B2",
+   "lat": 1.29829,
+   "long": 103.85377
+ },
+ {
+   "name": "Cathay Cineleisure Orchard ",
+   "address": " 8 Grange Road",
+   "remark": " Park at *Scape ",
+   "lat": 1.3014,
+   "long": 103.83692
+ },
+ {
+   "name": "Causeway Point ",
+   "address": " 1 Woodlands Square",
+   "remark": "$0.70",
+   "lat": 1.436524,
+   "long": 103.786128
+ },
+ {
+   "name": "Central Manpower Base (CMPB) ",
+   "address": " 3 Depot Road",
+   "remark": " Coupon parking opposite",
+   "lat": 1.280195,
+   "long": 103.815126
+ },
+ {
+   "name": "Central Square ",
+   "address": " 20 Havelock Road",
+   "remark": " Free",
+   "lat": 1.288304,
+   "long": 103.842986
+ },
+ {
+   "name": "Century Square ",
+   "address": " 2 Tampines Central 5",
+   "remark": "$1.07",
+   "lat": 1.352318,
+   "long": 103.943404
+ },
+ {
+   "name": "Certis Cisco Centre ",
+   "address": " 20 Jalan Afifi",
+   "remark": "$0.50",
+   "lat": 1.32147,
+   "long": 103.8919
+ },
+ {
+   "name": "Changi Airport ",
+   "address": " 80 Airport Boulevard",
+   "remark": " $1.30/day and/or night",
+   "lat": 1.35858,
+   "long": 103.984022
+ },
+ {
+   "name": "Changi City Point ",
+   "address": " 5 Changi Business Park Central 1",
+   "remark": " $1.00/hr. Consider parking @ Expo/IBM and walk over instead",
+   "lat": 1.336854,
+   "long": 103.964726
+ },
+ {
+   "name": "Changi General Hospital ",
+   "address": " 6A Simei Street 3",
+   "remark": " Free",
+   "lat": 1.34167,
+   "long": 103.95291
+ },
+ {
+   "name": "China Square Central ",
+   "address": " 18 Cross Street",
+   "remark": " Free",
+   "lat": 1.283576149,
+   "long": 103.8459494
+ },
+ {
+   "name": "China Square Food Centre ",
+   "address": " 51 Telok Ayer Street",
+   "remark": " Park outside CP near cargo bay if you don't mind the garbage smell",
+   "lat": 1.282983,
+   "long": 103.849122
+ },
+ {
+   "name": "Chinatown Point ",
+   "address": " 133 New Bridge Road",
+   "remark": "$0.70",
+   "lat": 1.285202,
+   "long": 103.84494
+ },
+ {
+   "name": "Chinese Garden ",
+   "address": " 1 Chinese Garden Road",
+   "remark": " Free",
+   "lat": 1.339496,
+   "long": 103.729641
+ },
+ {
+   "name": "City Plaza ",
+   "address": " 810 Geylang Road",
+   "remark": "$0.60",
+   "lat": 1.31127,
+   "long": 103.88568
+ },
+ {
+   "name": "City Square Mall ",
+   "address": " 180 Kitchener Road",
+   "remark": " Enter by Kitchener Road entrance ONLY. Other entrance along Kitchener Link is OOB to bikes",
+   "lat": 1.311249,
+   "long": 103.857133
+ },
+ {
+   "name": "Civil Service Club- Tessensohn Clubhouse ",
+   "address": " 60 Tessensohn Road",
+   "remark": "$1.00",
+   "lat": 1.31521,
+   "long": 103.85602
+ },
+ {
+   "name": "Clarke Quay Car Park ",
+   "address": " 3 River Valley Road",
+   "remark": " Free. Full length barrier",
+   "lat": 1.290831,
+   "long": 103.845538
+ },
+ {
+   "name": "Clifford Centre ",
+   "address": " 24 Raffles Place",
+   "remark": "$1.50",
+   "lat": 1.28495,
+   "long": 103.85133
+ },
+ {
+   "name": "Cluny Court ",
+   "address": " 501 Bukit Timah Road",
+   "remark": " $1.00 before 0200h, $5.00 after 0200h",
+   "lat": 1.322784,
+   "long": 103.814529
+ },
+ {
+   "name": "Comcentre III ",
+   "address": " 31C Exeter Road",
+   "remark": "$1.05",
+   "lat": 1.299151,
+   "long": 103.838507
+ },
+ {
+   "name": "Communicable Diesease Centre ",
+   "address": " 11 Jalan Tan Tock Seng",
+   "remark": " Free",
+   "lat": 1.32287,
+   "long": 103.84552
+ },
+ {
+   "name": "Compass Point ",
+   "address": " 1 Sengkang Square",
+   "remark": " $1.20. Free parking at Kopitiam Square",
+   "lat": 1.39201,
+   "long": 103.89472
+ },
+ {
+   "name": "Concorde Hotel & Shopping Mall ",
+   "address": " 100 Orchard Road",
+   "remark": "Free",
+   "lat": 1.30103,
+   "long": 103.84213
+ },
+ {
+   "name": "Concorde Shopping Centre ",
+   "address": " 317 Outram Road",
+   "remark": " Free",
+   "lat": 1.288559,
+   "long": 103.833944
+ },
+ {
+   "name": "Conrad Centennial Singapore ",
+   "address": " 2 Temasek Boulevard",
+   "remark": " Free. Designated lots at basement",
+   "lat": 1.29438,
+   "long": 103.85877
+ },
+ {
+   "name": "Copthorne King's Hotel Singapore ",
+   "address": " 403 Havelock Road",
+   "remark": " Free. No marked lots",
+   "lat": 1.288543,
+   "long": 103.836842
+ },
+ {
+   "name": "Coronation Shopping Plaza ",
+   "address": " 587 Bukit Timah Road",
+   "remark": " Free",
+   "lat": 1.324394,
+   "long": 103.810034
+ },
+ {
+   "name": "Courts Megastore ",
+   "address": " 50 Tampines North Drive 2",
+   "remark": " Free",
+   "lat": 1.373462,
+   "long": 103.933976
+ },
+ {
+   "name": "CPF Building ",
+   "address": " 79 Robinson Road",
+   "remark": " $1.50/half hour from 0600-1700h (Mon-Fri) 0600-1300h (Sat). Closed after 5pm/1pm, vehicle remaining from closure onwards will be charged an additional flat rate of $5",
+   "lat": 1.277317,
+   "long": 103.848082
+ },
+ {
+   "name": "Creative Resource ",
+   "address": " 31 International Business Park",
+   "remark": " Free",
+   "lat": 1.32886,
+   "long": 103.745571
+ },
+ {
+   "name": "Delta House ",
+   "address": " 2 Alexandra Road",
+   "remark": " Free. Squeeze through gap at barrier",
+   "lat": 1.290947,
+   "long": 103.825249
+ },
+ {
+   "name": "Devan Nair Institute for Employment and Employability ",
+   "address": "�80 Jurong East Street 21",
+   "remark": " $1.30/entry",
+   "lat": 1.335747569,
+   "long": 103.7448907
+ },
+ {
+   "name": "Downtown East ",
+   "address": " 1 Pasir Ris Close ",
+   "remark": " Free parking on ground floor; limited lots. Paid parking at opposite open space CP",
+   "lat": 1.378606,
+   "long": 103.955007
+ },
+ {
+   "name": "Eastpoint Mall ",
+   "address": " 3 Simei Street 6",
+   "remark": " Park at opposite MSCP",
+   "lat": 1.331454,
+   "long": 103.908607
+ },
+ {
+   "name": "Eastpoint Shopping Mall ",
+   "address": " 3 Simei Street 6",
+   "remark": " Free. Limited lots",
+   "lat": 1.331454,
+   "long": 103.908607
+ },
+ {
+   "name": "Eastwood Centre ",
+   "address": " 20 Eastwood Road",
+   "remark": " Free",
+   "lat": 1.32141,
+   "long": 103.95601
+ },
+ {
+   "name": "Eightrium @ Changi Business Park ",
+   "address": " 15A Changi Business Park Central 1",
+   "remark": " $0.75/entry",
+   "lat": 1.33664,
+   "long": 103.96584
+ },
+ {
+   "name": "Emerald Link ",
+   "address": " Emerald Link ",
+   "remark": "URA roadside parking, only 14 lots, up to $0,65/day",
+   "lat": 1.302140062,
+   "long": 103.8386485
+ },
+ {
+   "name": "Esplanade ",
+   "address": " 1 Esplanade Drive",
+   "remark": " Free. Squeeze through designated lane on the left side of the gantry",
+   "lat": 1.289857,
+   "long": 103.85528
+ },
+ {
+   "name": "Excelsior Shopping Centre ",
+   "address": " 5 Coleman Street",
+   "remark": "$1.00",
+   "lat": 1.29179,
+   "long": 103.85095
+ },
+ {
+   "name": "Fairprice Hub ",
+   "address": " 1 Joo Koon Circle",
+   "remark": " $1.07 per entry",
+   "lat": 1.326499622,
+   "long": 103.6783095
+ },
+ {
+   "name": "Far East Plaza ",
+   "address": " 14 Scotts Road",
+   "remark": "$2.14",
+   "lat": 1.306702,
+   "long": 103.833219
+ },
+ {
+   "name": "Far East Shopping Centre ",
+   "address": " 545 Orchard Road",
+   "remark": " Coupon parking at Angulia Park",
+   "lat": 1.305547,
+   "long": 103.830321
+ },
+ {
+   "name": "Focus One ",
+   "address": " 1 Ubi View",
+   "remark": " $0.25/half hour",
+   "lat": 1.33213,
+   "long": 103.8969
+ },
+ {
+   "name": "Four Seasons Hotel Singapore ",
+   "address": " 190 Orchard Boulevard",
+   "remark": " $4.00 for 1st hr $2.00/subsequent half hour. $6.00/entry aft 1700h on Sat and Sun",
+   "lat": 1.30492,
+   "long": 103.82898
+ },
+ {
+   "name": "Frontier ",
+   "address": " 50 Ubi Avenue 3",
+   "remark": " Free",
+   "lat": 1.33208,
+   "long": 103.8947
+ },
+ {
+   "name": "Funan DigitaLife Mall ",
+   "address": " 109 North Bridge Road",
+   "remark": " $1.00. Limited lots",
+   "lat": 1.29528,
+   "long": 103.85321
+ },
+ {
+   "name": "Furama RiverFront ",
+   "address": " 405 Havelock Road",
+   "remark": " Free. Full barrier but there are gaps in the center kerb to pass through",
+   "lat": 1.287932069,
+   "long": 103.8360059
+ },
+ {
+   "name": "Fusionopolis ",
+   "address": " 1 Fusionopolis Way",
+   "remark": " $0.65/entry",
+   "lat": 1.299622,
+   "long": 103.787656
+ },
+ {
+   "name": "Gardens by the Bay (Visitor Centre Basement Carpark) ",
+   "address": " 18 Marina Gardens Dr",
+   "remark": " $1.20 per entry",
+   "lat": 1.28008,
+   "long": 103.86534
+ },
+ {
+   "name": "Giant Tampines ",
+   "address": " 21 Tampines North Drive 2",
+   "remark": " Free",
+   "lat": 1.372605446,
+   "long": 103.9320444
+ },
+ {
+   "name": "Gleneagles Hospital and Medical Centre ",
+   "address": " 6A Napier Road",
+   "remark": " Free",
+   "lat": 1.30581,
+   "long": 103.82113
+ },
+ {
+   "name": "Global Switch Singapore ",
+   "address": " 2 Tai Seng Avenue",
+   "remark": " Authorised personnel only. Nearest coupon parking at JTC",
+   "lat": 1.336444,
+   "long": 103.893493
+ },
+ {
+   "name": "Golden Mile Complex ",
+   "address": " 5001 Beach Road",
+   "remark": "$1.00",
+   "lat": 1.30458,
+   "long": 103.86901
+ },
+ {
+   "name": "Golden Mile Tower ",
+   "address": " 6001 Beach Road",
+   "remark": "$0.65",
+   "lat": 1.303012,
+   "long": 103.865106
+ },
+ {
+   "name": "Golden Shoe Car Park ",
+   "address": " 50 Market Street",
+   "remark": " $1.10 before 1900h",
+   "lat": 1.284013,
+   "long": 103.850272
+ },
+ {
+   "name": "Goldhill Plaza ",
+   "address": " 51 Goldhill Plaza",
+   "remark": "$0.65",
+   "lat": 1.318222,
+   "long": 103.842817
+ },
+ {
+   "name": "Goodwood Park Hotel ",
+   "address": " 22 Scotts Road",
+   "remark": " $1.70/entry",
+   "lat": 1.307868,
+   "long": 103.833944
+ },
+ {
+   "name": "Grand Copthorne Waterfront Hotel ",
+   "address": " 392 Havelock Road",
+   "remark": " Free. No marked lots,  enter by King's Centre",
+   "lat": 1.290280369,
+   "long": 103.8352918
+ },
+ {
+   "name": "Grand Hyatt Singapore ",
+   "address": " 10 Scotts Road",
+   "remark": "$2.00",
+   "lat": 1.30734,
+   "long": 103.8342
+ },
+ {
+   "name": "Great Eastern Centre ",
+   "address": " 1 Pickering Street",
+   "remark": " Free",
+   "lat": 1.284748,
+   "long": 103.847611
+ },
+ {
+   "name": "Great World City ",
+   "address": " 1 Kim Seng Promenade",
+   "remark": " $1.20+GST/entry",
+   "lat": 1.292662,
+   "long": 103.832495
+ },
+ {
+   "name": "Guthrie House ",
+   "address": " 1 Fifth Avenue",
+   "remark": " Free",
+   "lat": 1.330685,
+   "long": 103.795675
+ },
+ {
+   "name": "Harbour Link ",
+   "address": " 61 Alexandra Terrace",
+   "remark": " Free",
+   "lat": 1.276909,
+   "long": 103.797914
+ },
+ {
+   "name": "Haw Par Centre ",
+   "address": " 180 Clemenceau Avenue",
+   "remark": " Coupon parking behind the building",
+   "lat": 1.29808,
+   "long": 103.84434
+ },
+ {
+   "name": "HDB Hub ",
+   "address": " 190 Lorong 6 Toa Payoh",
+   "remark": " $0.65/day. $0.65/night",
+   "lat": 1.332954,
+   "long": 103.849162
+ },
+ {
+   "name": "Health Promotion Board ",
+   "address": " 3 Second Hospital Avenue",
+   "remark": " $0.20/hr. Prorated",
+   "lat": 1.279555,
+   "long": 103.838369
+ },
+ {
+   "name": "High Street Centre ",
+   "address": " 1 North Bridge Road",
+   "remark": " Park at the back lane. Lots of room on nearby sidewalks",
+   "lat": 1.29528,
+   "long": 103.85321
+ },
+ {
+   "name": "High Street Plaza ",
+   "address": " 77 High Street",
+   "remark": " Park at the back lane. Lots of room on nearby sidewalks",
+   "lat": 1.29056,
+   "long": 103.84956
+ },
+ {
+   "name": "Hilton Singapore ",
+   "address": " 581 Orchard Road",
+   "remark": " $7 for 1st hr, $3.50 for half hour or part thereof",
+   "lat": 1.306137,
+   "long": 103.829596
+ },
+ {
+   "name": "Holiday Inn Singapore Atrium ",
+   "address": " 317 Outram Road",
+   "remark": " Free",
+   "lat": 1.288559,
+   "long": 103.833944
+ },
+ {
+   "name": "Holiday Inn Singapore Orchard City Centre (Formerly Holiday Inn Park View Singapore) ",
+   "address": " 11 Cavenagh Road",
+   "remark": " $2.xx for 1st hr,  $0.50 every additional 15 min",
+   "lat": 1.30177,
+   "long": 103.84157
+ },
+ {
+   "name": "Hong Leong Building ",
+   "address": " 16 Raffles Quay",
+   "remark": " $3/entry",
+   "lat": 1.281656201,
+   "long": 103.85104
+ },
+ {
+   "name": "Hong Lim Complex ",
+   "address": " 531 Upper Cross Street",
+   "remark": "$0.70",
+   "lat": 1.284645248,
+   "long": 103.8462519
+ },
+ {
+   "name": "HortPark ",
+   "address": " 33 Hyderabad Road",
+   "remark": " Free",
+   "lat": 1.278749,
+   "long": 103.801292
+ },
+ {
+   "name": "Hotel Grand Pacific (Formerly Allson Hotel Singapore) ",
+   "address": " 101 Victoria Street",
+   "remark": " Hotel staff only",
+   "lat": 1.29723,
+   "long": 103.852785
+ },
+ {
+   "name": "Hotel Jen Tanglin Singapore (Formerly Traders Hotel) ",
+   "address": " 1A Cuscaden Road",
+   "remark": " Free",
+   "lat": 1.304215,
+   "long": 103.823973
+ },
+ {
+   "name": "Hotel Miramar Singapore ",
+   "address": " 401 Havelock Road",
+   "remark": " Free",
+   "lat": 1.28912,
+   "long": 103.83626
+ },
+ {
+   "name": "Hotel Royal ",
+   "address": " 36 Newton Road",
+   "remark": " Free",
+   "lat": 1.31664,
+   "long": 103.84151
+ },
+ {
+   "name": "Hougang Green Shopping Mall ",
+   "address": " 21 Hougang Street 51",
+   "remark": " Free",
+   "lat": 1.379598,
+   "long": 103.8883
+ },
+ {
+   "name": "Hougang Mall ",
+   "address": " 90 Hougang Avenue 10",
+   "remark": "$1.28",
+   "lat": 1.37306,
+   "long": 103.8918
+ },
+ {
+   "name": "IBM ",
+   "address": " 9 Changi Business Park Central 1",
+   "remark": "$0.65",
+   "lat": 1.336388,
+   "long": 103.964436
+ },
+ {
+   "name": "ICA Building ",
+   "address": " 10 Kallang Road",
+   "remark": "$0.65",
+   "lat": 1.307145332,
+   "long": 103.8626939
+ },
+ {
+   "name": "IKEA (Alexandra) ",
+   "address": " 317 Alexandra Road",
+   "remark": " Free",
+   "lat": 1.28813,
+   "long": 103.805687
+ },
+ {
+   "name": "IKEA (Tampines) ",
+   "address": " 60 Tampines North Drive 2",
+   "remark": " Free",
+   "lat": 1.37271,
+   "long": 103.93366
+ },
+ {
+   "name": "IMM ",
+   "address": " 2 Jurong East Street 21",
+   "remark": " 1st hour free on weekdays",
+   "lat": 1.335062095,
+   "long": 103.7468502
+ },
+ {
+   "name": "Informatics Academy - BOC Plaza",
+   "address": " 133 Middle Road",
+   "remark": " Free",
+   "lat": 1.30012,
+   "long": 103.85199
+ },
+ {
+   "name": "International Plaza ",
+   "address": " 10 Anson Road",
+   "remark": " $2.20/half hour",
+   "lat": 1.276109,
+   "long": 103.845924
+ },
+ {
+   "name": "ION Orchard ",
+   "address": " 2 Orchard Turn",
+   "remark": " $4.00/entry. No grace period",
+   "lat": 1.304186224,
+   "long": 103.8319512
+ },
+ {
+   "name": "Jackson Square ",
+   "address": " 11 Lorong 3 Toa Payoh",
+   "remark": "$0.65",
+   "lat": 1.33794,
+   "long": 103.84808
+ },
+ {
+   "name": "JCube ",
+   "address": " 2 Jurong East Central 1",
+   "remark": " $1.30/entry",
+   "lat": 1.332989,
+   "long": 103.740502
+ },
+ {
+   "name": "Jelita Shopping Mall ",
+   "address": " 293 Holland Road",
+   "remark": " Park further down or at the petrol station",
+   "lat": 1.31575,
+   "long": 103.78939
+ },
+ {
+   "name": "JEM ",
+   "address": " 50 Jurong Gateway Road",
+   "remark": " $1.30/entry. Park at Big Box",
+   "lat": 1.33379,
+   "long": 103.74433
+ },
+ {
+   "name": "Junction 10 (Formerly Ten Mile Junction) ",
+   "address": " 1 Woodlands Road",
+   "remark": " Free",
+   "lat": 1.3804,
+   "long": 103.7602
+ },
+ {
+   "name": "Junction 8 ",
+   "address": " 9 Bishan Place",
+   "remark": " Use nearby MSCP. Exit using the LEFT barrier, the right one always jam",
+   "lat": 1.349971,
+   "long": 103.848794
+ },
+ {
+   "name": "Junction Nine ",
+   "address": " 18 Yishun Avenue 9",
+   "remark": " Free parking ",
+   "lat": 1.433266183,
+   "long": 103.841844
+ },
+ {
+   "name": "Jurong Bird Park ",
+   "address": " 2 Jurong Hill",
+   "remark": " Free",
+   "lat": 1.31991,
+   "long": 103.70841
+ },
+ {
+   "name": "Jurong Country Club ",
+   "address": " 9 Science Centre Road",
+   "remark": " Free",
+   "lat": 1.3302,
+   "long": 103.73851
+ },
+ {
+   "name": "Jurong Point Shopping Centre ",
+   "address": " 1 Jurong West Central 2",
+   "remark": "$0.80",
+   "lat": 1.34007,
+   "long": 103.70704
+ },
+ {
+   "name": "Jurong Stadium ",
+   "address": " 10 Fourth Chin Bee Road",
+   "remark": " Coupon parking",
+   "lat": 1.33321,
+   "long": 103.71805
+ },
+ {
+   "name": "Jurong West Stadium ",
+   "address": " 20 Jurong West Street 93",
+   "remark": " Coupon parking. Active wardens",
+   "lat": 1.338574,
+   "long": 103.694113
+ },
+ {
+   "name": "Kallang Leisure Park ",
+   "address": " 5 Stadium Walk",
+   "remark": " URA parking outside",
+   "lat": 1.302358,
+   "long": 103.876445
+ },
+ {
+   "name": "Kallang Macdonalds/KFC ",
+   "address": " Stadium Boulevard",
+   "remark": " $1.30/entry",
+   "lat": 1.304943,
+   "long": 103.875136
+ },
+ {
+   "name": "Katong Shopping Centre ",
+   "address": " 865 Mountbatten Road",
+   "remark": " Use the lots at the back of Roxy Square. No indication of coupons needed",
+   "lat": 1.303978,
+   "long": 103.901349
+ },
+ {
+   "name": "Keppel Bay Tower ",
+   "address": " 1 HarbourFront Avenue",
+   "remark": " 60c/30mins",
+   "lat": 1.26514,
+   "long": 103.81806
+ },
+ {
+   "name": "Keppel Country Club ",
+   "address": " 10 Bukit Chermin Road",
+   "remark": " Free at visitors carpark",
+   "lat": 1.26735,
+   "long": 103.80992
+ },
+ {
+   "name": "Keppel Distripark ",
+   "address": " 513 Kampong Bahru Road",
+   "remark": " Free",
+   "lat": 1.27305,
+   "long": 103.82886
+ },
+ {
+   "name": "Khoo Teck Puat Hospital ",
+   "address": " 90 Yishun Central",
+   "remark": " $1.00/entry",
+   "lat": 1.42608,
+   "long": 103.84047
+ },
+ {
+   "name": "KK Women's and Children's Hospital ",
+   "address": " 100 Bukit Timah Road",
+   "remark": "$0.60",
+   "lat": 1.3121,
+   "long": 103.84086
+ },
+ {
+   "name": "Kopitiam Square ",
+   "address": " 10 Sengkang Square",
+   "remark": " Free",
+   "lat": 1.391814,
+   "long": 103.8954
+ },
+ {
+   "name": "Laguna Park ",
+   "address": " 5000A Marine Parade Road",
+   "remark": " Free. Private estate",
+   "lat": 1.309084,
+   "long": 103.929626
+ },
+ {
+   "name": "LASALLE College of the Arts ",
+   "address": " 1 McNally Street",
+   "remark": "$1.00",
+   "lat": 1.303089,
+   "long": 103.851336
+ },
+ {
+   "name": "Liang Court ",
+   "address": " 177 River Valley Road",
+   "remark": " Go up to MSCP. No entry for basement CP",
+   "lat": 1.291424,
+   "long": 103.844813
+ },
+ {
+   "name": "Liat Tower ",
+   "address": " 541 Orchard Road",
+   "remark": " Level 5",
+   "lat": 1.305543,
+   "long": 103.830321
+ },
+ {
+   "name": "Lion Industrial Building ",
+   "address": " 12 Arumugam Road",
+   "remark": " $0.65/hr",
+   "lat": 1.325004,
+   "long": 103.89123
+ },
+ {
+   "name": "Lot One ",
+   "address": " 21 Choa Chu Kang Avenue 4",
+   "remark": " $1.00. Alternatively $0.65 at HDB Branch Office next to Lot One",
+   "lat": 1.38465,
+   "long": 103.74477
+ },
+ {
+   "name": "Loyang Point ",
+   "address": " 258 Pasir Ris Street 21",
+   "remark": "0.65, Free with CSPT",
+   "lat": 1.36955,
+   "long": 103.96205
+ },
+ {
+   "name": "M Hotel Singapore ",
+   "address": " 81 Anson Road",
+   "remark": " Mon-Fri $0.60 every half hour for 7am to 6pm.  Sat 7am to 1pm. All other timings and sun is $3 per entry.",
+   "lat": 1.273803,
+   "long": 103.845034
+ },
+ {
+   "name": "Management Development Institute of Singapore (MDIS) ",
+   "address": " 501 Stirling Road",
+   "remark": "$1.00",
+   "lat": 1.296939,
+   "long": 103.800616
+ },
+ {
+   "name": "Manhattan House ",
+   "address": " 151 Chin Swee Road",
+   "remark": "$1.00",
+   "lat": 1.28616,
+   "long": 103.83876
+ },
+ {
+   "name": "Mapletree Business City ",
+   "address": " 10 Pasir Panjang Road",
+   "remark": " Free",
+   "lat": 1.28073,
+   "long": 103.78503
+ },
+ {
+   "name": "Marina at Keppel Bay ",
+   "address": " 2 Keppel Bay Vista",
+   "remark": " $1.28 for 1st 3 hrs, subsequently $1.28/hr or part thereof",
+   "lat": 1.264002,
+   "long": 103.812509
+ },
+ {
+   "name": "Marina Bay Sands ",
+   "address": " 10 Bayfront Avenue",
+   "remark": " $0.50/hr at Wilson Parking near Convention Center at Bayfront Avenue",
+   "lat": 1.2821,
+   "long": 103.85894
+ },
+ {
+   "name": "Marina Country Club ",
+   "address": " 600 Ponggol 17th Avenue",
+   "remark": " Free",
+   "lat": 1.40856,
+   "long": 103.89619
+ },
+ {
+   "name": "Marina South Pier ",
+   "address": " 31 Marina Coastal Drive",
+   "remark": " CP states that you have to pay but barrier isn't full length",
+   "lat": 1.2703,
+   "long": 103.86117
+ },
+ {
+   "name": "Marina Square ",
+   "address": " 6 Raffles Blvd",
+   "remark": " Free",
+   "lat": 1.29193,
+   "long": 103.85767
+ },
+ {
+   "name": "Maxwell Food Centre ",
+   "address": " 1 Kadayanallur Street",
+   "remark": " Free after 2200h",
+   "lat": 1.27986,
+   "long": 103.84458
+ },
+ {
+   "name": "Midview Building ",
+   "address": " 50 Bukit Batok Street 23",
+   "remark": " $0.65 per entry. 15 mins grace period",
+   "lat": 1.339338,
+   "long": 103.757157
+ },
+ {
+   "name": "Midview City ",
+   "address": " 18 Sin Ming Lane ",
+   "remark": " $0.60/hr",
+   "lat": 1.358681,
+   "long": 103.834139
+ },
+ {
+   "name": "Millenia Walk ",
+   "address": " 9 Raffles Boulevard",
+   "remark": " Free",
+   "lat": 1.29212,
+   "long": 103.85916
+ },
+ {
+   "name": "Ming Arcade ",
+   "address": " 21 Cuscaden Road",
+   "remark": "$1.00",
+   "lat": 1.30505,
+   "long": 103.82633
+ },
+ {
+   "name": "Ministry of Education ",
+   "address": " 1 North Buona Vista Drive",
+   "remark": " $1.00/hr. Open space CP. Covered parking at The Metropolis.",
+   "lat": 1.305185,
+   "long": 103.790474
+ },
+ {
+   "name": "MND Complex Tower Block ",
+   "address": " 5 Maxwell Road",
+   "remark": " Coupon parking",
+   "lat": 1.27714,
+   "long": 103.84694
+ },
+ {
+   "name": "Monetary Authority of Singapore (MAS) ",
+   "address": " 10 Shenton Way",
+   "remark": " Authorised personnel only",
+   "lat": 1.27456,
+   "long": 103.846354
+ },
+ {
+   "name": "Mount Alvernia Hospital and Medical Centre ",
+   "address": " 820 Thomson Road",
+   "remark": " Free",
+   "lat": 1.3155,
+   "long": 103.89023
+ },
+ {
+   "name": "Mount Elizabeth Hospital ",
+   "address": " 3 Mount Elizabeth",
+   "remark": " Authorised personnel only",
+   "lat": 1.30653,
+   "long": 103.83559
+ },
+ {
+   "name": "Mountbatten Square ",
+   "address": " 229 Mountbatten Road",
+   "remark": " $0.80/hr",
+   "lat": 1.307532,
+   "long": 103.881287
+ },
+ {
+   "name": "Mustafa Shopping Centre ",
+   "address": " 145 Syed Alwi Road",
+   "remark": " Free",
+   "lat": 1.309915876,
+   "long": 103.855784
+ },
+ {
+   "name": "Nanyang Academy of Fine Arts (Campus 1) ",
+   "address": " 151 Bencoolen Street",
+   "remark": " Staff and students only",
+   "lat": 1.30052,
+   "long": 103.85166
+ },
+ {
+   "name": "Nanyang Polytechnic (NYP) ",
+   "address": " 180 Ang Mo Kio Avenue 8",
+   "remark": " $0.20 per hour (capped at $0.65 per day)",
+   "lat": 1.379806,
+   "long": 103.850611
+ },
+ {
+   "name": "Nanyang Technological University (NTU) ",
+   "address": " 50 Nanyang Avenue",
+   "remark": " Free",
+   "lat": 1.35087,
+   "long": 103.688378
+ },
+ {
+   "name": "National Dental Centre ",
+   "address": " 5 Second Hospital Avenue",
+   "remark": " $0.20/hr. Prorated",
+   "lat": 1.279768,
+   "long": 103.838629
+ },
+ {
+   "name": "National Heart Centre Singapore (NHCS)",
+   "address": " 5 Hospital Drive ",
+   "remark": " 0700 to 2159 hrs = $1/hr (Max $8 per day). 2200 to 0659hrs = $1.50/entry",
+   "lat": 1.278832727,
+   "long": 103.8360869
+ },
+ {
+   "name": "National Library ",
+   "address": " 100 Victoria Street",
+   "remark": " $1.05/entry. Season pass $18/mth",
+   "lat": 1.29741,
+   "long": 103.8536
+ },
+ {
+   "name": "National Museum of Singapore ",
+   "address": " 93 Stamford Road",
+   "remark": " Free lots located before the carpark gantry on the right. Carpark warden at the booth will direct you to park behind the building",
+   "lat": 1.296669,
+   "long": 103.848437
+ },
+ {
+   "name": "National Service Resort & Country Club ",
+   "address": " 10 Changi Coast Walk",
+   "remark": " Free",
+   "lat": 1.321096,
+   "long": 103.975316
+ },
+ {
+   "name": "National Skin Centre ",
+   "address": " 1 Mandalay Road",
+   "remark": "$0.65",
+   "lat": 1.320659,
+   "long": 103.848437
+ },
+ {
+   "name": "National University Hospital ",
+   "address": " 5 Lower Kent Ridge Road",
+   "remark": " Free",
+   "lat": 1.29719,
+   "long": 103.77973
+ },
+ {
+   "name": "National University of Singapore (NUS) ",
+   "address": " 21 Lower Kent Ridge Road",
+   "remark": " Free",
+   "lat": 1.29719,
+   "long": 103.77973
+ },
+ {
+   "name": "New Tech Park ",
+   "address": " 151 Lorong Chuan",
+   "remark": "$0.65",
+   "lat": 1.351625,
+   "long": 103.861482
+ },
+ {
+   "name": "Nex ",
+   "address": " 23 Serangoon Central",
+   "remark": "$1.20",
+   "lat": 1.35159,
+   "long": 103.874
+ },
+ {
+   "name": "Nexus @ one-north",
+   "address": " 1 Fusionopolis Link",
+   "remark": " Bike lots at Loading Bay. No barrier at entrance",
+   "lat": 1.29888,
+   "long": 103.78935
+ },
+ {
+   "name": "Ng Teng Fong General Hospital ",
+   "address": " 1 Jurong East Street 21",
+   "remark": " $1.30/entry",
+   "lat": 1.33377,
+   "long": 103.74618
+ },
+ {
+   "name": "Ngee Ann City ",
+   "address": " 391 Orchard Road",
+   "remark": " $/hr",
+   "lat": 1.3018,
+   "long": 103.83498
+ },
+ {
+   "name": "Ngee Ann Polytechnic (NP) ",
+   "address": " 535 Clementi Road",
+   "remark": " Free",
+   "lat": 1.32751,
+   "long": 103.77614
+ },
+ {
+   "name": "Nordic European Centre ",
+   "address": " 3 International Business Park",
+   "remark": " Free",
+   "lat": 1.327086,
+   "long": 103.748467
+ },
+ {
+   "name": "Northpoint Shopping Centre ",
+   "address": " 930 Yishun Avenue 2",
+   "remark": " $0.80/entry",
+   "lat": 1.42574,
+   "long": 103.83508
+ },
+ {
+   "name": "Northtech ",
+   "address": " 29 Woodlands Industrial Park E1",
+   "remark": " Free",
+   "lat": 1.455833,
+   "long": 103.799167
+ },
+ {
+   "name": "Novena Square Shopping Mall ",
+   "address": " 238 Thomson Road",
+   "remark": " Bike lots at Loading Bay. Go in by the opposite Tan Tock Seng side. Go all the way towards the end and on the left is car park entrance go down the loading bay its a long down ramp and you'll come to bike lots.",
+   "lat": 1.319517,
+   "long": 103.844089
+ },
+ {
+   "name": "NTU Alumni Club @ One North ",
+   "address": " 11 Slim Barracks Rise",
+   "remark": " Free",
+   "lat": 1.304015,
+   "long": 103.790474
+ },
+ {
+   "name": "NTUC Income Tampines Point ",
+   "address": " 2 Tampines Central 6",
+   "remark": " $1.50 per entry.",
+   "lat": 1.353041,
+   "long": 103.942261
+ },
+ {
+   "name": "NTUC LearningHub (Benoi) ",
+   "address": " 60 Benoi Road",
+   "remark": " $1.20 per entry. Can try squeeze through exit gate but not 100% safe.",
+   "lat": 1.326885,
+   "long": 103.680415
+ },
+ {
+   "name": "NTUC Trade Union House ",
+   "address": " 73 Bras Basah Road",
+   "remark": " Go to SMU Level 2 for free parking",
+   "lat": 1.296869,
+   "long": 103.851573
+ },
+ {
+   "name": "Ocean Financial Centre ",
+   "address": " 10 Collyer Quay",
+   "remark": " Authorised personnel only",
+   "lat": 1.283028,
+   "long": 103.852016
+ },
+ {
+   "name": "One Commonwealth ",
+   "address": " 1 Commonwealth Lane",
+   "remark": " Free on ground floor",
+   "lat": 1.30464192,
+   "long": 103.796741
+ },
+ {
+   "name": "One George Street ",
+   "address": " 1 George Street",
+   "remark": " $2.70/entry. Season parking $33/mth",
+   "lat": 1.28566,
+   "long": 103.847861
+ },
+ {
+   "name": "One Raffles Quay ",
+   "address": " 1 Raffles Quay",
+   "remark": " $0.80/hr. Lots at L3 but for season parking holders. Note that entry and exit after 10pm may only be available for season parking holders",
+   "lat": 1.281142,
+   "long": 103.851928
+ },
+ {
+   "name": "Orchard Grand Court ",
+   "address": " 131 Killiney Road",
+   "remark": " Free",
+   "lat": 1.297592,
+   "long": 103.838707
+ },
+ {
+   "name": "Orchard Hotel Singapore ",
+   "address": " 442 Orchard Road",
+   "remark": " $4.00. B2 look for motorcycle parking sign",
+   "lat": 1.30796,
+   "long": 103.82858
+ },
+ {
+   "name": "Orchard Parade Hotel ",
+   "address": " 1 Tanglin Road",
+   "remark": "$4.00",
+   "lat": 1.313767,
+   "long": 103.825974
+ },
+ {
+   "name": "Orchid Country Club ",
+   "address": " 1 Orchid Club Road ",
+   "remark": " Free",
+   "lat": 1.412024687,
+   "long": 103.8443208
+ },
+ {
+   "name": "Orion Industrial Building ",
+   "address": " 160 Paya Lebar Road",
+   "remark": " Free",
+   "lat": 1.3266,
+   "long": 103.89009
+ },
+ {
+   "name": "OUB Centre ",
+   "address": " 1 Raffles Place",
+   "remark": " $2.20/half hour",
+   "lat": 1.284479,
+   "long": 103.851082
+ },
+ {
+   "name": "OUE Downtown Gallery Basement/Multistorey ",
+   "address": " 6a Shenton Way",
+   "remark": " $1.07 per hour $2.57 per entry after 6pm",
+   "lat": 1.27627,
+   "long": 103.8483
+ },
+ {
+   "name": "Pacific Plaza ",
+   "address": " 9 Scotts Road",
+   "remark": " Coupon parking behind",
+   "lat": 1.30655,
+   "long": 103.83185
+ },
+ {
+   "name": "Pan Pacific Orchard Singapore",
+   "address": " 10 Claymore Road",
+   "remark": " $2.50/entry",
+   "lat": 1.30762,
+   "long": 103.82974
+ },
+ {
+   "name": "Pan Pacific Singapore ( Marina Square)",
+   "address": " 7 Raffles Boulevard",
+   "remark": " Free",
+   "lat": 1.29438,
+   "long": 103.85877
+ },
+ {
+   "name": "Park Hotel Clarke Quay ",
+   "address": " 1 Unity Street",
+   "remark": " Staff only",
+   "lat": 1.291732,
+   "long": 103.842458
+ },
+ {
+   "name": "Park Mall ",
+   "address": " 9 Penang Road",
+   "remark": " Free",
+   "lat": 1.29848,
+   "long": 103.84448
+ },
+ {
+   "name": "Park Royal Hotel (Beach Road) ",
+   "address": " 7500A Beach Road",
+   "remark": "Free parking behind, don't go up the Furniture Mall MSCP",
+   "lat": 1.302,
+   "long": 103.86293
+ },
+ {
+   "name": "Parklane Shopping Mall ",
+   "address": " 35 Selegie Road",
+   "remark": "$1.30",
+   "lat": 1.30201,
+   "long": 103.85003
+ },
+ {
+   "name": "Parkview Square ",
+   "address": " 600 North Bridge Road",
+   "remark": " Authorised personnel only. Free if you can convince them that you're despatching letter",
+   "lat": 1.30044,
+   "long": 103.85796
+ },
+ {
+   "name": "Parkway Parade ",
+   "address": " 80 Marine Parade Road",
+   "remark": " Free",
+   "lat": 1.301033,
+   "long": 103.904974
+ },
+ {
+   "name": "Paya Lebar Quarter ",
+   "address": " 10 Paya Lebar Road",
+   "remark": " $1.50/entry",
+   "lat": 1.3186,
+   "long": 103.89185
+ },
+ {
+   "name": "Paya Lebar Square ",
+   "address": " 60 Paya Lebar Road",
+   "remark": " $0.70 for 1st hour $0.70 for subsequent half hour or part thereof",
+   "lat": 1.31904,
+   "long": 103.89318
+ },
+ {
+   "name": "Pearls Centre ",
+   "address": " 100 Eu Tong Sen Street",
+   "remark": "$1.00",
+   "lat": 1.282122,
+   "long": 103.840885
+ },
+ {
+   "name": "Peninsula Excelsior Hotel ",
+   "address": " 5 Coleman Street",
+   "remark": " $2.00/entry? (I paid $2 for 1.5hrs)",
+   "lat": 1.29179,
+   "long": 103.85095
+ },
+ {
+   "name": "People's Park Centre ",
+   "address": " 101 Upper Cross Street",
+   "remark": "$0.75",
+   "lat": 1.285873167,
+   "long": 103.8439951
+ },
+ {
+   "name": "Pico Creative Centre ",
+   "address": " 20 Kallang Avenue",
+   "remark": " $2.00/entry",
+   "lat": 1.311834,
+   "long": 103.857134
+ },
+ {
+   "name": "Pioneer Junction ",
+   "address": " 3 Soon Lee Street",
+   "remark": " $0.65/entry",
+   "lat": 1.334476044,
+   "long": 103.6972093
+ },
+ {
+   "name": "Plaza 8 ",
+   "address": " 1 Changi Business Park Crescent",
+   "remark": " $1.07/hr",
+   "lat": 1.333453,
+   "long": 103.965886
+ },
+ {
+   "name": "Plaza Singapura ",
+   "address": " 68 Orchard Road",
+   "remark": " $1.07/entry. Use gantry on the right",
+   "lat": 1.300204,
+   "long": 103.844089
+ },
+ {
+   "name": "Prudential @ Scotts ",
+   "address": " 51 Scotts Road",
+   "remark": " Free. Entrance at Bukit Timah Road",
+   "lat": 1.312101,
+   "long": 103.837321
+ },
+ {
+   "name": "PSA Building ",
+   "address": " 460 Alexandra Road",
+   "remark": " Free at Keppel Yard entrance opposite KTM railway or park at Keppel Distripark",
+   "lat": 1.273673,
+   "long": 103.801381
+ },
+ {
+   "name": "PSA Tanjong Pagar Complex ",
+   "address": " 7A Keppel Road",
+   "remark": " $0.65/entry. 1st hr free",
+   "lat": 1.27149,
+   "long": 103.83592
+ },
+ {
+   "name": "PSB Academy ",
+   "address": " 355 Jalan Bukit Ho Swee",
+   "remark": " Free",
+   "lat": 1.287429,
+   "long": 103.826698
+ },
+ {
+   "name": "Punggol Plaza ",
+   "address": " 168 Punggol Field",
+   "remark": " Free",
+   "lat": 1.394421061,
+   "long": 103.9130804
+ },
+ {
+   "name": "Quality Hotel Marlow ",
+   "address": " 201 Balestier Road",
+   "remark": "$0.75",
+   "lat": 1.319936,
+   "long": 103.852506
+ },
+ {
+   "name": "Queensway Shopping Centre ",
+   "address": " 1 Queensway",
+   "remark": "$0.90",
+   "lat": 1.287561,
+   "long": 103.803514
+ },
+ {
+   "name": "Raffles City Shopping Centre ",
+   "address": " 252 North Bridge Road",
+   "remark": " $1.00/entry",
+   "lat": 1.29356,
+   "long": 103.8525
+ },
+ {
+   "name": "Raffles Hospital ",
+   "address": " 585 North Bridge Road",
+   "remark": " $0.65. Free entry after 1900h",
+   "lat": 1.30036,
+   "long": 103.85891
+ },
+ {
+   "name": "Raffles Hotel ",
+   "address": " 1 Beach Road",
+   "remark": " Authorised personnel only. Enter from Seah Street; lots at basement",
+   "lat": 1.294882,
+   "long": 103.854234
+ },
+ {
+   "name": "Regent Singapore ",
+   "address": " 1 Cuscaden Road",
+   "remark": " Free at B2",
+   "lat": 1.30411,
+   "long": 103.82433
+ },
+ {
+   "name": "Rendezvous Hotel Singapore ",
+   "address": " 9 Bras Basah Road",
+   "remark": " Hotel guests only; treacherously tight carpark",
+   "lat": 1.30052,
+   "long": 103.85166
+ },
+ {
+   "name": "Republic Plaza ",
+   "address": " 9 Raffles Place",
+   "remark": " $1.00/2 hrs",
+   "lat": 1.28375,
+   "long": 103.85091
+ },
+ {
+   "name": "Republic Polytechnic (RP) ",
+   "address": " 9 Woodlands Avenue 9",
+   "remark": " Free",
+   "lat": 1.44627,
+   "long": 103.79331
+ },
+ {
+   "name": "Revenue House ",
+   "address": " 55 Newton Road",
+   "remark": " Free at B3 and B4",
+   "lat": 1.319525,
+   "long": 103.842639
+ },
+ {
+   "name": "Robertson Quay Hotel ",
+   "address": " 15 Merbau Road",
+   "remark": " Free. Limited lots",
+   "lat": 1.290851,
+   "long": 103.842639
+ },
+ {
+   "name": "Robertson Walk ",
+   "address": " 11 Unity Street",
+   "remark": "$1.00",
+   "lat": 1.29221,
+   "long": 103.84165
+ },
+ {
+   "name": "Robinson Centre ",
+   "address": " 61 Robinson Road",
+   "remark": " Free",
+   "lat": 1.27926,
+   "long": 103.849246
+ },
+ {
+   "name": "Robinson Point ",
+   "address": " 39 Robinson Rd",
+   "remark": " $2.14 per half hour or part thereof",
+   "lat": 1.27936,
+   "long": 103.84962
+ },
+ {
+   "name": "Robinson Towers ",
+   "address": " 30 Robinson Road",
+   "remark": " $0.65. Free after 1730h Sundays & PH",
+   "lat": 1.281739,
+   "long": 103.85048
+ },
+ {
+   "name": "Roxy Square ",
+   "address": " 50 East Coast Road",
+   "remark": " Free lots at the back of the building. No indication of coupons needed",
+   "lat": 1.30372,
+   "long": 103.90388
+ },
+ {
+   "name": "Royal Plaza on Scotts ",
+   "address": " 25 Scotts Road",
+   "remark": " $4.00/hr $1.50/subsequent half hour (Mon-Sat: 0800-1800h). $5.50/entry (Mon-Sat: Aft 1800h Sundays & PH: 0800-0800h)",
+   "lat": 1.307079,
+   "long": 103.832436
+ },
+ {
+   "name": "Royalville ",
+   "address": " 833 Bukit Timah Road",
+   "remark": " $0.75/entry",
+   "lat": 1.331328,
+   "long": 103.794358
+ },
+ {
+   "name": "Rutherford & Science Hub ",
+   "address": " 89 Science Park Drive",
+   "remark": " Free",
+   "lat": 1.288147,
+   "long": 103.791239
+ },
+ {
+   "name": "SAFRA Jurong ",
+   "address": " 333 Boon Lay Way",
+   "remark": " Public: $1.30/entry. Member: $0.55/entry",
+   "lat": 1.33998,
+   "long": 103.7094
+ },
+ {
+   "name": "SAFRA Mount Faber ",
+   "address": " 2 Telok Blangah Way",
+   "remark": " Public: $1.30/entry. Member: $0.55/entry",
+   "lat": 1.277696,
+   "long": 103.817404
+ },
+ {
+   "name": "SAFRA Punggol ",
+   "address": " 9 Sentul Crescent",
+   "remark": " Public: $1.25/entry. Member: $0.65/entry",
+   "lat": 1.41,
+   "long": 103.90504
+ },
+ {
+   "name": "SAFRA Tampines ",
+   "address": " 1/A Tampines Street 92",
+   "remark": " Public: $1.35/entry. Member: $0.61/entry",
+   "lat": 1.34418,
+   "long": 103.94209
+ },
+ {
+   "name": "SAFRA Toa Payoh ",
+   "address": " 293 Lorong 6 Toa Payoh",
+   "remark": " Public: $1.30/entry. Member: $0.55/entry",
+   "lat": 1.33752,
+   "long": 103.85175
+ },
+ {
+   "name": "SAFRA Yishun ",
+   "address": " 60 Yishun Avenue 4",
+   "remark": " Public: $1.30/entry. Member: $0.61/entry",
+   "lat": 1.424463,
+   "long": 103.839741
+ },
+ {
+   "name": "SATA (Bedok) Uttamram Medical Centre ",
+   "address": " 351 Chai Chee St",
+   "remark": " Free",
+   "lat": 1.32752,
+   "long": 103.9219
+ },
+ {
+   "name": "Science Centre Singapore ",
+   "address": " 15 Science Centre Road",
+   "remark": " $0.65/entry",
+   "lat": 1.3302,
+   "long": 103.73851
+ },
+ {
+   "name": "Seah Im Food Centre ",
+   "address": " 2 Seah Im Road",
+   "remark": " URA rates",
+   "lat": 1.266668,
+   "long": 103.818942
+ },
+ {
+   "name": "Seletar Country Club ",
+   "address": " 101 Seletar Club Road",
+   "remark": " Free",
+   "lat": 1.410302,
+   "long": 103.856409
+ },
+ {
+   "name": "Sembawang Shopping Centre ",
+   "address": " 604 Sembawang Road",
+   "remark": " $1.00/entry",
+   "lat": 1.44155,
+   "long": 103.82448
+ },
+ {
+   "name": "Serangoon Garden Country Club ",
+   "address": " 22 Kensington Park Road",
+   "remark": " Free parking at ground level beside car park entrance and basement car park",
+   "lat": 1.367155315,
+   "long": 103.8667178
+ },
+ {
+   "name": "Serene Centre ",
+   "address": " 10 Jalan Serene",
+   "remark": " $0.82. Additional $0.82 if parked during 0900h",
+   "lat": 1.322027,
+   "long": 103.814381
+ },
+ {
+   "name": "Shangri-La Hotel Singapore ",
+   "address": " 22 Orange Grove Road",
+   "remark": " Free at Valley Wing entrance",
+   "lat": 1.311,
+   "long": 103.8263
+ },
+ {
+   "name": "Shaw Plaza ",
+   "address": " 360 Balestier Road",
+   "remark": " $0.87 per entry",
+   "lat": 1.32534,
+   "long": 103.85052
+ },
+ {
+   "name": "Shaw Towers ",
+   "address": " 100 Beach Road",
+   "remark": "$1.00",
+   "lat": 1.29616,
+   "long": 103.85646
+ },
+ {
+   "name": "Shell House ",
+   "address": " 83 Clemenceau Avenue",
+   "remark": " Free",
+   "lat": 1.29198,
+   "long": 103.84529
+ },
+ {
+   "name": "Shenton House ",
+   "address": " 3 Shenton Way",
+   "remark": "$3.21",
+   "lat": 1.278953875,
+   "long": 103.8500494
+ },
+ {
+   "name": "Sheraton Towers Singapore ",
+   "address": " 39 Scotts Road",
+   "remark": " Free",
+   "lat": 1.31156,
+   "long": 103.83685
+ },
+ {
+   "name": "Sim Lim Square ",
+   "address": " 1 Rochor Canal Road",
+   "remark": " $0.75. Enter from Bencoolen Street",
+   "lat": 1.303300725,
+   "long": 103.8529637
+ },
+ {
+   "name": "Sim Lim Tower ",
+   "address": " 10 Jalan Besar",
+   "remark": " $0.65/hour",
+   "lat": 1.30365,
+   "long": 103.85374
+ },
+ {
+   "name": "Sin Ming Plaza ",
+   "address": " 4 Sin Ming Road",
+   "remark": " Tenants only. Visitors park next to the guard room or Thomson Imperial Court",
+   "lat": 1.352354,
+   "long": 103.836842
+ },
+ {
+   "name": "Singapore Art Museum ",
+   "address": " 71 Bras Basah Road",
+   "remark": " Free for guests to the museum and outlets. Limited lots",
+   "lat": 1.29769,
+   "long": 103.84989
+ },
+ {
+   "name": "Singapore Botanic Gardens ",
+   "address": " 1 Cluny Road",
+   "remark": " Free",
+   "lat": 1.312071,
+   "long": 103.81583
+ },
+ {
+   "name": "Singapore EXPO ",
+   "address": " 1 Expo Drive",
+   "remark": " Free",
+   "lat": 1.33648,
+   "long": 103.96063
+ },
+ {
+   "name": "Singapore General Hospital ",
+   "address": " 1 Hospital Drive",
+   "remark": " Free at MSCP further away. $1.00/hr for carparks around the hospital, refer to National Dental Centre",
+   "lat": 1.27896,
+   "long": 103.83499
+ },
+ {
+   "name": "Singapore Institute of Management (SIM) ",
+   "address": " 461 Clementi Road",
+   "remark": " Free",
+   "lat": 1.329269,
+   "long": 103.775988
+ },
+ {
+   "name": "Singapore Institute of Management (SIM) ",
+   "address": " 461 Clementi Road",
+   "remark": " Free. Insert cashcard into IU to exit the carpark",
+   "lat": 1.329269,
+   "long": 103.775988
+ },
+ {
+   "name": "Singapore Islamic Hub ",
+   "address": " 273 Braddell Road",
+   "remark": " Free",
+   "lat": 1.342893,
+   "long": 103.85206
+ },
+ {
+   "name": "Singapore Land Tower ",
+   "address": " 50 Raffles Place",
+   "remark": " $5/entry. carpark entry on Battery Rd",
+   "lat": 1.284542,
+   "long": 103.851951
+ },
+ {
+   "name": "Singapore Management University (SMU) ",
+   "address": " 81 Victoria Street",
+   "remark": " Free basement parking @ Lee Kong Chien Building",
+   "lat": 1.29829,
+   "long": 103.85377
+ },
+ {
+   "name": "Singapore Polo Club ",
+   "address": " 80 Mount Pleasant Road",
+   "remark": " Free",
+   "lat": 1.33189,
+   "long": 103.83224
+ },
+ {
+   "name": "Singapore Polytechnic (SP) ",
+   "address": " 500 Dover Road",
+   "remark": " $0.65 per entry from 7am to 1030pm. Free on Sun and PH.",
+   "lat": 1.30857,
+   "long": 103.77684
+ },
+ {
+   "name": "Singapore Post Centre ",
+   "address": " 10 Eunos Road 8",
+   "remark": " $1.37/entry",
+   "lat": 1.31992,
+   "long": 103.89652
+ },
+ {
+   "name": "Singapore Recreation Club ",
+   "address": " B Connaught Drive",
+   "remark": " Free",
+   "lat": 1.28994,
+   "long": 103.85342
+ },
+ {
+   "name": "Singapore Safety Driving Centre (SSDC) ",
+   "address": " 2 Woodlands Industrial Park E4",
+   "remark": " Free",
+   "lat": 1.452575,
+   "long": 103.79473
+ },
+ {
+   "name": "Singapore Swimming Club ",
+   "address": " 45 Tanjong Rhu Road",
+   "remark": " Free at separate lane next to the club entrance",
+   "lat": 1.29743,
+   "long": 103.87651
+ },
+ {
+   "name": "Singapore Zoo ",
+   "address": " 80 Mandai Lake Road",
+   "remark": " Free",
+   "lat": 1.404201,
+   "long": 103.793372
+ },
+ {
+   "name": "Singtel Building ",
+   "address": " 1 Serangoon North Avenue 5",
+   "remark": " Free",
+   "lat": 1.372681,
+   "long": 103.868005
+ },
+ {
+   "name": "Six Battery Road (Formerly Standard Chartered Building) ",
+   "address": " 6 Battery Road",
+   "remark": "$5.00",
+   "lat": 1.285539,
+   "long": 103.851667
+ },
+ {
+   "name": "SkyTech ",
+   "address": " 2 Bukit Batok Street 24",
+   "remark": "$0.65",
+   "lat": 1.341683,
+   "long": 103.754461
+ },
+ {
+   "name": "SLF Building ",
+   "address": " 510 Thomson Road",
+   "remark": " Free limited lots. Enter via Thomson Road",
+   "lat": 1.333573,
+   "long": 103.839126
+ },
+ {
+   "name": "Solaris ",
+   "address": " 1 Fusionopolis Walk",
+   "remark": " $1.00/entry",
+   "lat": 1.30171,
+   "long": 103.786369
+ },
+ {
+   "name": "Square 2 ",
+   "address": " 10 Sinaran Drive",
+   "remark": " See Novena Square",
+   "lat": 1.321078897,
+   "long": 103.8441152
+ },
+ {
+   "name": "St Francis Methodist School ",
+   "address": " 492 Upper Bukit Timah Road",
+   "remark": " Free",
+   "lat": 1.361711741,
+   "long": 103.7675936
+ },
+ {
+   "name": "St Luke's Hospital ",
+   "address": " 2 Bukit Batok Street 11",
+   "remark": " $0.65/entry",
+   "lat": 1.3492,
+   "long": 103.74302
+ },
+ {
+   "name": "Sultan Link ",
+   "address": " 57 Mohamed Sultan Road  ",
+   "remark": " $1.00/hr",
+   "lat": 1.29223,
+   "long": 103.84085
+ },
+ {
+   "name": "Sultan Plaza ",
+   "address": " 100 Jalan Sultan",
+   "remark": " OOB. Only 3 lots at open carpark",
+   "lat": 1.303028,
+   "long": 103.862207
+ },
+ {
+   "name": "Sun Plaza ",
+   "address": " 30 Sembawang Drive",
+   "remark": " $1.61/entry",
+   "lat": 1.448654,
+   "long": 103.820177
+ },
+ {
+   "name": "Sunshine Plaza ",
+   "address": " 91 Bencoolen Street",
+   "remark": " Tenants only. Coupon parking along Prinsep Street or IOI Plaza",
+   "lat": 1.30052,
+   "long": 103.85166
+ },
+ {
+   "name": "Suntec City Mall ",
+   "address": " 3 Temasek Boulevard",
+   "remark": " Free",
+   "lat": 1.295968,
+   "long": 103.858967
+ },
+ {
+   "name": "Tai Seng Centre ",
+   "address": "�3 Irving Rd",
+   "remark": " $0.70/entry",
+   "lat": 1.33553,
+   "long": 103.88711
+ },
+ {
+   "name": "Tampines Mall ",
+   "address": " 4 Tampines Central 5",
+   "remark": "$1.00",
+   "lat": 1.352895,
+   "long": 103.944854
+ },
+ {
+   "name": "Tampines Mart ",
+   "address": " 9 Tampines Street 32",
+   "remark": " Free",
+   "lat": 1.3538,
+   "long": 103.95788
+ },
+ {
+   "name": "Tampines One ",
+   "address": " 10 Tampines Central 1",
+   "remark": " $1.00/entry",
+   "lat": 1.35399,
+   "long": 103.94425
+ },
+ {
+   "name": "Tan Tock Seng Hospital ",
+   "address": " 11 Jalan Tan Tock Seng",
+   "remark": " Free at B3. Bypass barrier from the left",
+   "lat": 1.32287,
+   "long": 103.84552
+ },
+ {
+   "name": "Tanah Merah Ferry Terminal ",
+   "address": " 50 Tanah Merah Ferry Road",
+   "remark": " Free",
+   "lat": 1.31478,
+   "long": 103.98856
+ },
+ {
+   "name": "Tanglin Mall ",
+   "address": " 163 Tanglin Road",
+   "remark": " Free",
+   "lat": 1.305079672,
+   "long": 103.8238707
+ },
+ {
+   "name": "Tanglin Shopping Centre ",
+   "address": " 19 Tanglin Road",
+   "remark": " $1.07. Enter by Cuscaden Road",
+   "lat": 1.30311,
+   "long": 103.82126
+ },
+ {
+   "name": "Tanjong Katong Complex ",
+   "address": " 845 Geylang Road",
+   "remark": " $0.65/entry",
+   "lat": 1.316442,
+   "long": 103.894357
+ },
+ {
+   "name": "Tanjong Pagar Centre (Guoco Tower)",
+   "address": " 1 Wallich Street ",
+   "remark": " Mon-Fri 7am-4.59pm  $2/hr  Mon-Fri 5pm-6.59am  Sat/Sun/PH $1.50/entry",
+   "lat": 1.27739,
+   "long": 103.84582
+ },
+ {
+   "name": "Techlink ",
+   "address": " 31 Kaki Bukit Road 3",
+   "remark": "$0.65",
+   "lat": 1.335561,
+   "long": 103.905699
+ },
+ {
+   "name": "Technopark @ Chai Chee ",
+   "address": " Chai Chee Road",
+   "remark": " Free at Blocks A,D and E only",
+   "lat": 1.32255644,
+   "long": 103.9214271
+ },
+ {
+   "name": "Temasek Polytechnic ",
+   "address": " 21 Tampines Avenue 1",
+   "remark": " $0.65/entry. 15 min grace period",
+   "lat": 1.344774,
+   "long": 103.931801
+ },
+ {
+   "name": "Textile Centre ",
+   "address": " 200 Jalan Sultan  ",
+   "remark": " $1 per entry for 24hrs",
+   "lat": 1.304202,
+   "long": 103.861482
+ },
+ {
+   "name": "The Adelphi ",
+   "address": " 1 Coleman Street",
+   "remark": "$1.00",
+   "lat": 1.29129,
+   "long": 103.85155
+ },
+ {
+   "name": "The Alexcier ",
+   "address": " 237 Alexandra Road",
+   "remark": " Free. Underground signs indicate 1hr parking for building visitors only. Park at your own discretion",
+   "lat": 1.29161,
+   "long": 103.813896
+ },
+ {
+   "name": "The Alpha ",
+   "address": " 10 Science Park Road",
+   "remark": " Free",
+   "lat": 1.288119,
+   "long": 103.779601
+ },
+ {
+   "name": "The Centrepoint ",
+   "address": " 176 Orchard Road",
+   "remark": " $1.50/hr",
+   "lat": 1.301949,
+   "long": 103.839829
+ },
+ {
+   "name": "The Chevrons ",
+   "address": " 48 Boon Lay Way",
+   "remark": " Free",
+   "lat": 1.330601,
+   "long": 103.748467
+ },
+ {
+   "name": "The Clementi Mall ",
+   "address": " 3155 Commonwealth Avenue West",
+   "remark": " $1.50/entry",
+   "lat": 1.314513,
+   "long": 103.767495
+ },
+ {
+   "name": "The Commerze @ Irving ",
+   "address": "�1-26 Irving Pl",
+   "remark": " $0.60/entry",
+   "lat": 1.33605,
+   "long": 103.887
+ },
+ {
+   "name": "The Comtech ",
+   "address": " Alexandra Terrace",
+   "remark": " Free",
+   "lat": 1.276645,
+   "long": 103.797976
+ },
+ {
+   "name": "The Concourse ",
+   "address": " 300 Beach Road",
+   "remark": " Free",
+   "lat": 1.302,
+   "long": 103.86293
+ },
+ {
+   "name": "The Furniture Mall ",
+   "address": " 10 Toh Guan Road",
+   "remark": " Free",
+   "lat": 1.332944,
+   "long": 103.748467
+ },
+ {
+   "name": "The Gateway West ",
+   "address": " 150 Beach Road",
+   "remark": " Free",
+   "lat": 1.29616,
+   "long": 103.85646
+ },
+ {
+   "name": "The JTC Summit ",
+   "address": " 8 Jurong Town Hall Road",
+   "remark": " Free",
+   "lat": 1.33215,
+   "long": 103.73952
+ },
+ {
+   "name": "The Kendall ",
+   "address": " 50 Science Park Road",
+   "remark": " Free",
+   "lat": 1.286215,
+   "long": 103.783457
+ },
+ {
+   "name": "The Legends Golf & Country Resort ",
+   "address": " 11 Canning Walk",
+   "remark": " Free",
+   "lat": 1.2961,
+   "long": 103.846263
+ },
+ {
+   "name": "The Ritz-Carlton, Millenia Singapore",
+   "address": " 7 Raffles Avenue",
+   "remark": " Free",
+   "lat": 1.291183221,
+   "long": 103.8602067
+ },
+ {
+   "name": "The Riverwalk ",
+   "address": " 20 Upper Circular Road",
+   "remark": " $2.00/hr",
+   "lat": 1.28873,
+   "long": 103.84828
+ },
+ {
+   "name": "The Signature ",
+   "address": " 51 Changi Business Park Central 2",
+   "remark": " $1/entry",
+   "lat": 1.337648337,
+   "long": 103.9651192
+ },
+ {
+   "name": "The Star Vista ",
+   "address": " 1 Vista Exchange Green",
+   "remark": " $1.07/entry",
+   "lat": 1.30609,
+   "long": 103.78872
+ },
+ {
+   "name": "The Strategy ",
+   "address": " 2 International Business Park",
+   "remark": " $0.65/day,  $0.65/night",
+   "lat": 1.330023,
+   "long": 103.747019
+ },
+ {
+   "name": "The Synergy ",
+   "address": " 1 International Business Park",
+   "remark": " $0.65/day, $0.65/night",
+   "lat": 1.3268,
+   "long": 103.74788
+ },
+ {
+   "name": "The URA Centre ",
+   "address": " 45 Maxwell Road",
+   "remark": " $1.00/entry. Open air coupon parking in the streets and alleys nearby",
+   "lat": 1.279866,
+   "long": 103.845134
+ },
+ {
+   "name": "The Verge ",
+   "address": " 2 Serangoon Road",
+   "remark": " Free",
+   "lat": 1.305334,
+   "long": 103.851162
+ },
+ {
+   "name": "Thomson Imperial Court ",
+   "address": " 200 Upper Thomson Road",
+   "remark": " Free",
+   "lat": 1.35626,
+   "long": 103.838
+ },
+ {
+   "name": "Thomson Plaza ",
+   "address": " 301 Upper Thomson Road",
+   "remark": "$1.00",
+   "lat": 1.329573,
+   "long": 103.827423
+ },
+ {
+   "name": "Thye Hong Centre ",
+   "address": " 2 Leng Kee Road",
+   "remark": " $0.80/entry",
+   "lat": 1.290982,
+   "long": 103.814894
+ },
+ {
+   "name": "Tiong Bahru Plaza ",
+   "address": " 298 Tiong Bahru Road",
+   "remark": " $1.07/entry. 10 min grace period",
+   "lat": 1.28677,
+   "long": 103.82542
+ },
+ {
+   "name": "TradeHub 21 ",
+   "address": " 8 Boon Lay Way",
+   "remark": " Free for front carpark. Pay for back carpark",
+   "lat": 1.32723,
+   "long": 103.75306
+ },
+ {
+   "name": "Traffic Police Department ",
+   "address": " 10 Ubi Avenue 3",
+   "remark": " Authorised personnel only",
+   "lat": 1.33035,
+   "long": 103.891074
+ },
+ {
+   "name": "TripleOne Somerset ",
+   "address": " 111 Somerset Road",
+   "remark": " $1.50/half hour",
+   "lat": 1.30054,
+   "long": 103.83812
+ },
+ {
+   "name": "Turf City ",
+   "address": " 200 Turf Club Road",
+   "remark": " Free",
+   "lat": 1.33711,
+   "long": 103.79441
+ },
+ {
+   "name": "UE Bizhub East ",
+   "address": " 8 Changi Business Park Avenue 1",
+   "remark": " $1 for 1st 2 hrs. Subsequest hr $1/hr",
+   "lat": 1.334844,
+   "long": 103.963907
+ },
+ {
+   "name": "UE Square Shopping Mall ",
+   "address": " 81A Clemenceau Avenue",
+   "remark": " $1.00/entry to Carpark A with 10 min grace period. No entry to Carpark B",
+   "lat": 1.29219,
+   "long": 103.84185
+ },
+ {
+   "name": "United Square ",
+   "address": " 101 Thomson Road",
+   "remark": " There are bike lots behind United Square near the emergency exit. Instead of turning left at the overhead bridge/normal carpark go slightly infront and turn left at the small road with shop houses on the right. Go all the way down at the end T junction turn left and go down all the way. Pass by the United Square taxi stand/car park go down a bit more",
+   "lat": 1.31835,
+   "long": 103.8431
+ },
+ {
+   "name": "UOB Centre ",
+   "address": " 148 Upper Bukit Timah Road",
+   "remark": "$3.50",
+   "lat": 1.342677,
+   "long": 103.775981
+ },
+ {
+   "name": "UOB Plaza 1 ",
+   "address": " 80 Raffles Place",
+   "remark": " $7.00/hr",
+   "lat": 1.28526,
+   "long": 103.84995
+ },
+ {
+   "name": "Upper Serangoon Shopping Centre ",
+   "address": " 756 Upper Serangoon Road",
+   "remark": " Free",
+   "lat": 1.354232045,
+   "long": 103.8786272
+ },
+ {
+   "name": "Valley Point Shopping Centre ",
+   "address": " 491 River Valley Road",
+   "remark": " Free",
+   "lat": 1.292695,
+   "long": 103.827423
+ },
+ {
+   "name": "Value Hotel Thomson ",
+   "address": " 592 Balestier Road",
+   "remark": " Free",
+   "lat": 1.32658,
+   "long": 103.842963
+ },
+ {
+   "name": "Village Hotel Changi (Formerly Changi Village Hotel and Le Meridien Changi) ",
+   "address": " 1 Netheravon Road",
+   "remark": " Free",
+   "lat": 1.387222,
+   "long": 103.981844
+ },
+ {
+   "name": "Vivocity ",
+   "address": " 1 Harbourfront Walk",
+   "remark": " $1.00 for 1st 3 hours subsequently $1.00/hr",
+   "lat": 1.264613,
+   "long": 103.823012
+ },
+ {
+   "name": "Warren Golf & Country Club ",
+   "address": " 81 Choa Chu Kang Way",
+   "remark": " Free workers' bike lots",
+   "lat": 1.3858,
+   "long": 103.740502
+ },
+ {
+   "name": "Waterway Point (Shopping Centre) ",
+   "address": " 83 Punggol Central",
+   "remark": " $0.80/entry",
+   "lat": 1.4017,
+   "long": 103.90783
+ },
+ {
+   "name": "West Coast Plaza ",
+   "address": " 154 West Coast Road",
+   "remark": " Free at loading bay",
+   "lat": 1.303843,
+   "long": 103.766292
+ },
+ {
+   "name": "West Mall ",
+   "address": " 1 Bukit Batok Central Link",
+   "remark": " Park at nearby MSCP",
+   "lat": 1.35003,
+   "long": 103.74883
+ },
+ {
+   "name": "Westgate ",
+   "address": " 3 Gateway Drive",
+   "remark": "$1.30",
+   "lat": 1.33548,
+   "long": 103.74192
+ },
+ {
+   "name": "Wheelock Place ",
+   "address": " 501 Orchard Road",
+   "remark": " Coupon parking at Angulia Park",
+   "lat": 1.304377,
+   "long": 103.830321
+ },
+ {
+   "name": "White Sands ",
+   "address": " 1 Pasir Ris Central Street 3",
+   "remark": "$1.00",
+   "lat": 1.37195,
+   "long": 103.94966
+ },
+ {
+   "name": "Wilkie Edge ",
+   "address": " 8 Wilkie Road",
+   "remark": " $1.60/entry",
+   "lat": 1.30285,
+   "long": 103.84755
+ },
+ {
+   "name": "Wisma Atria ",
+   "address": " 435 Orchard Road",
+   "remark": " $2.10. Parking only on top 2 levels. Add $1.07 if entering carpark from 12pm to 2pm",
+   "lat": 1.30336,
+   "long": 103.83325
+ },
+ {
+   "name": "Woodlands Civic Centre ",
+   "address": " 900 South Woodlands Drive",
+   "remark": "$0.65",
+   "lat": 1.437752,
+   "long": 103.778885
+ },
+ {
+   "name": "Woodlands Point ",
+   "address": " 268 Woodlands Centre Road",
+   "remark": "$0.65",
+   "lat": 1.440163,
+   "long": 103.768745
+ },
+ {
+   "name": "Yew Tee Point ",
+   "address": " 21 Choa Chu Kang North 6",
+   "remark": " OOB. Many Malaysian bikes park at the open space next to the building",
+   "lat": 1.39729,
+   "long": 103.746546
+ },
+ {
+   "name": "Yishun Community Hospital ",
+   "address": " 2 Yishun Central",
+   "remark": " $1.00/entry",
+   "lat": 1.42379,
+   "long": 103.83709
+ },
+ {
+   "name": "York Hotel ",
+   "address": " 21 Mount Elizabeth",
+   "remark": "$1.70",
+   "lat": 1.307275,
+   "long": 103.835393
+ },
+ {
+   "name": "Zhongshan Mall Balestier ",
+   "address": " 20 Ah Hood Road",
+   "remark": " $1.07/entry. Opposite Sun Yat Sen Memorial at Ah Hood Road",
+   "lat": 1.3277,
+   "long": 103.84677
+ }
+]
