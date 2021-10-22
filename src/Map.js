@@ -10,13 +10,13 @@ import {
 import { OpenStreetMapProvider } from "react-leaflet-geosearch";
 import SearchControl from "./SearchControl";
 import { GetData } from "./datafromAPI.js";
-import LocationList from "./locations.json";
+import LocationList from "./forum_carparks.json";
 
 export default function Map(props) {
   let [filteredLocations, setFilteredLocation] = useState(LocationList);
 
   const Carpark = (props) => {
-    let coords = [props.lat, props.long];
+    let coords = [parseFloat(props.lat), parseFloat(props.long)];
 
     return (
       <Marker position={coords}>
