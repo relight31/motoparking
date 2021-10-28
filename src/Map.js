@@ -13,7 +13,7 @@ import { GetData } from "./datafromAPI.js";
 import LocationList from "./forum_carparks.json";
 
 export default function Map(props) {
-  let [filteredLocations, setFilteredLocation] = useState(LocationList);
+  let [filteredLocations, setFilteredLocations] = useState(LocationList);
 
   const Carpark = (props) => {
     let coords = [parseFloat(props.lat), parseFloat(props.long)];
@@ -28,7 +28,7 @@ export default function Map(props) {
     );
   };
 
-  const HDBcarpark = (props) => {
+  const HDBCarpark = (props) => {
     return (
       <CircleMarker
         center={props.coords}
@@ -43,8 +43,8 @@ export default function Map(props) {
     );
   };
 
-  let hdbdataset = GetData();
-  console.log(hdbdataset);
+  let hdbDataset = GetData();
+  //console.log(hdbDataset);
   const prov = OpenStreetMapProvider();
 
   return (
@@ -57,8 +57,8 @@ export default function Map(props) {
         {filteredLocations.map((location, index) => {
           return <Carpark key={index} {...location} />;
         })}
-        {hdbdataset.map((location, index) => {
-          return <HDBcarpark key={index} {...location} />;
+        {hdbDataset.map((location, index) => {
+          return <HDBCarpark key={index} {...location} />;
         })}
         <SearchControl
           provider={prov}
