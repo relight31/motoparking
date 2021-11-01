@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MotoParkWhere",
+  "name": "Find motorcycle parking easily",
   "icons": [
     {
       "src": "favicon.ico",
