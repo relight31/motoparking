@@ -17,6 +17,7 @@ function App() {
       <div className="leaflet-container">
         <MapTool location={currentLocation} />
       </div>
+      <div class="powr-hit-counter" id="40d62e07_1635437299"></div><script src="https://www.powr.io/powr.js?platform=react"></script>
     </>
   );
 }
