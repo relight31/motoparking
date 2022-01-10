@@ -44,7 +44,6 @@ export default function Map(props) {
   };
 
   let hdbDataset = GetData();
-  //console.log(hdbDataset);
   const prov = OpenStreetMapProvider();
 
   return (
