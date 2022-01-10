@@ -27,7 +27,6 @@ export function GetData() {
     ]);
     return { name: name, coords: [coords[1], coords[0]] };
   });
-  console.log(hdbcarparks);
-  console.log(parsed_carparks);
+
   return parsed_carparks;
 }
